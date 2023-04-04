@@ -1,0 +1,32 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    height: 850px;
+    background: linear-gradient(#e66465, #9198e5);
+}
+
+#i1,
+#i2 {
+    height: 30px;
+    width: 400px;
+    border-radius:5px;
+    border-width:1px;
+}
+
+#d1,
+#d2 {
+    background-color:white;
+    border-width: 1px;
+    border-radius:12px;
+    box-shadow:2px 2px 15px black;
+    height:200px;
+    width:450px;
+}
+#b1{
+    height:50px;
+    width:200px;
+    border-radius:8px;
+    border-width:1px;
+    font-size:17px;
+    background-color:rgb(241, 65, 100);
+    color:white;
+}
